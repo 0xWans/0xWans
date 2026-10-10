@@ -8,9 +8,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=0xWans&hide=html"></td>
+    <td><img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=0xWans&hide=html&theme=dark"></td>
     <td>
-      <img src="https://github-readme-stats.fireline.fun/api?username=0xWans&show_icons=true"/> 
+      <img src="https://github-readme-stats.fireline.fun/api?username=0xWans&show_icons=true&theme=dark"/> 
       <br/>
     </td>
   </tr>
