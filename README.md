@@ -1,20 +1,10 @@
-# 😁About Me
+# 😁 About Me
 
-<img align="right" wight=193 height=193 src="[https://wanswu.github.io/images/tx.webp" />
-
- - “刚毅木讷近乎仁，巧言令色鲜矣仁。”
+> “刚毅木讷近乎仁，巧言令色鲜矣仁。”
 
 ## 📈 Reputation
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=0xWans&hide=html&theme=dark"></td>
-    <td>
-      <img src="https://github-readme-stats.fireline.fun/api?username=0xWans&show_icons=true&theme=dark"/> 
-      <br/>
-    </td>
-  </tr>
-</table>
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/0xwans?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/0xwans?ref=badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xWans/0xWans/output/github-contribution-grid-snake-dark.svg">
